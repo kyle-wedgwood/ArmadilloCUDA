@@ -1,0 +1,7 @@
+#ifndef NEWTONSOLVERPARAMETERLISTHEADERDEF
+#define NEWTONSOLVERPARAMETERLISTHEADERDEF
+
+struct NewtonSolverParameterList;
+
+#endif
+
